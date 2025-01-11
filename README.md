@@ -4,9 +4,11 @@
 This project is a MERN stack-based application designed to manage product transaction data. It fetches data from a third-party API, processes it, and stores it in a MongoDB database. The frontend allows users to interact with this data through transactions tables, statistics, and visualizations such as bar and pie charts.
 ## Demo Video
 
-You can view the demo of the project in action by watching the video below:
+## Demo Video
 
-[![Watch the video](https://drive.google.com/file/d/1ojjtC9CDadSO5mbwjUYo0mGH1eG_eg9g/view?usp=sharing)](https://drive.google.com/file/d/1vU2dMVRMDEVzdvRCDMNnN8hfGMPI3e-W/view?usp=sharing)
+You can view the demo of the project in action by clicking the image below:
+
+[![Click to watch the demo video](https://drive.google.com/uc?export=view&id=1ojjtC9CDadSO5mbwjUYo0mGH1eG_eg9g)](https://drive.google.com/file/d/1vU2dMVRMDEVzdvRCDMNnN8hfGMPI3e-W/view?usp=sharing)
 
 ## Table of Contents
 
