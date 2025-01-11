@@ -6,7 +6,7 @@ This project is a MERN stack-based application designed to manage product transa
 
 You can view the demo of the project in action by watching the video below:
 
-[![Watch the video](https://drive.google.com/uc?export=view&id=1lDl8qZivIPbktKsonGTH4_8pyIT_LrH-)](https://drive.google.com/drive/folders/1lDl8qZivIPbktKsonGTH4_8pyIT_LrH-)
+[![Watch the video](https://drive.google.com/file/d/1ojjtC9CDadSO5mbwjUYo0mGH1eG_eg9g/view?usp=sharing)](https://drive.google.com/file/d/1vU2dMVRMDEVzdvRCDMNnN8hfGMPI3e-W/view?usp=sharing)
 
 ## Table of Contents
 
